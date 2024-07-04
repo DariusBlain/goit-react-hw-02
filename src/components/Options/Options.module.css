@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 24px;
+}
+
+.btn {
+  border: none;
+  background-color: cornflowerblue;
+  padding: 6px 12px;
+  border-radius: 6px;
+  color: #212121;
+}
